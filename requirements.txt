@@ -1,0 +1,6 @@
+llama-index==0.10.0
+pymupdf==1.23.8
+chromadb==0.4.22
+sentence-transformers==2.3.1
+bm25s==0.1.5
+numpy>=1.24.0
