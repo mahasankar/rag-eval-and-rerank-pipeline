@@ -36,7 +36,7 @@ Evaluated across a rigorous benchmark test suite of computer science algorithms 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-eval-and-rerank-pipeline.git
+git clone https://github.com/mahasankar/rag-eval-and-rerank-pipeline.git
 cd rag-eval-and-rerank-pipeline
 ```
 
